@@ -1,0 +1,150 @@
+{
+  "_base": "https://raw.githubusercontent.com/MyCleaningSupplies/breindoodsamples/main/",
+  "amazigh": [
+    "amazigh/amazigh_drums.mp3",
+    "amazigh/amazigh_melody.mp3"
+  ],
+  "ambience-sample": [
+    "ambience-sample/ambient_club.mp3",
+    "ambience-sample/beach-01-404139.mp3"
+  ],
+  "bass": [
+    "bass/jungbass.wav"
+  ],
+  "bassoneshots": [
+    "bassoneshots/AKAS B1 - Eb.wav",
+    "bassoneshots/AKAS B10 - Ebm.wav",
+    "bassoneshots/AKAS B11 - Dm.wav",
+    "bassoneshots/AKAS B12  - Gbm.wav",
+    "bassoneshots/AKAS B13 - Em.wav",
+    "bassoneshots/AKAS B14 - Fm.wav",
+    "bassoneshots/AKAS B15 - B.wav",
+    "bassoneshots/AKAS B16 - E.wav",
+    "bassoneshots/AKAS B17 - Fm.wav",
+    "bassoneshots/AKAS B18 - Dm.wav",
+    "bassoneshots/AKAS B19 - Fm.wav",
+    "bassoneshots/AKAS B2 - Fm.wav",
+    "bassoneshots/AKAS B20 - Abm.wav",
+    "bassoneshots/AKAS B21 - Fm.wav",
+    "bassoneshots/AKAS B22 - Abm.wav",
+    "bassoneshots/AKAS B23 - D.wav",
+    "bassoneshots/AKAS B24 - Dbm.wav",
+    "bassoneshots/AKAS B25 - GM.wav",
+    "bassoneshots/AKAS B3 - Gm.wav",
+    "bassoneshots/AKAS B4 - G.wav",
+    "bassoneshots/AKAS B5 - Gm.wav",
+    "bassoneshots/AKAS B6 - Em.wav",
+    "bassoneshots/AKAS B7 - G.wav",
+    "bassoneshots/AKAS B8 - B.wav",
+    "bassoneshots/AKAS B9 - Am.wav"
+  ],
+  "drumsamples": [
+    "drumsamples/Africa_93bpm_1bars.wav"
+  ],
+  "effects": [
+    "effects/PreCastHolyMagicMedium.ogg",
+    "effects/aanhang.wav",
+    "effects/seal.ogg",
+    "effects/warhorse.ogg"
+  ],
+  "fullsample": [
+    "fullsample/Artifacts.mp3",
+    "fullsample/Be the Song.mp3",
+    "fullsample/Bellbottoms.mp3",
+    "fullsample/Belly of the Beast (feat. Chronixx).mp3",
+    "fullsample/Big Money Salvia.mp3",
+    "fullsample/Black Yellow Moebius.mp3",
+    "fullsample/Blackout City.mp3",
+    "fullsample/Boom Bust Boom (I Put My Ftse in Your Asset) [feat. Envy].mp3",
+    "fullsample/Breakin' Point.mp3",
+    "fullsample/By Your Side.mp3",
+    "fullsample/DNA..mp3",
+    "fullsample/Dark Titan.mp3",
+    "fullsample/David.mp3",
+    "fullsample/Done With It.mp3",
+    "fullsample/Dragostea Din Tei - Romanian Version.mp3",
+    "fullsample/Enter the Nexus.mp3",
+    "fullsample/Everlasting Hymn (Cathedral).mp3",
+    "fullsample/bafbrein.mp3",
+    "fullsample/darktitan.mp3",
+    "fullsample/enterthenexus.mp3",
+    "fullsample/firetemple.mp3"
+  ],
+  "guitar": [
+    "guitar/guitarshort.wav"
+  ],
+  "haltes": [
+    "haltes/amstelveen.wav",
+    "haltes/brinkstraat.wav",
+    "haltes/eindpunt.wav"
+  ],
+  "loops": [
+    "loops/[GVB Metro Amsterdam] Omroepen Lijn 51 Centraal Station - Zuid - Amstelveen Westwijk - Bahn Ansagen.mp3",
+    "loops/chaabi.mp3",
+    "loops/hotlinesynth.wav",
+    "loops/loop.wav",
+    "loops/track(1).wav",
+    "loops/track.mp3"
+  ],
+  "voice": [
+    "loops/voice/minder.wav"
+  ],
+  "pre-loop": [
+    "pre-loop/Nigham Layhdik _ Himi Midar (Official Audio)_vocals_[cut_19sec].mp3",
+    "pre-loop/brabant.mp3",
+    "pre-loop/gvb-ding.wav",
+    "pre-loop/mainmelody-track1.wav",
+    "pre-loop/rifi.wav"
+  ],
+  "sfx": [
+    "sfx/ambient-door-closing_B_minor.wav"
+  ],
+  "stems": [
+    "stems/dr2drum.wav",
+    "stems/hotlinesynth.wav"
+  ],
+  "subbasses": [
+    "subbasses/Studio Brootle Subs-01.wav",
+    "subbasses/Studio Brootle Subs-02.wav",
+    "subbasses/Studio Brootle Subs-03.wav",
+    "subbasses/Studio Brootle Subs-04.wav",
+    "subbasses/Studio Brootle Subs-05.wav",
+    "subbasses/Studio Brootle Subs-06.wav",
+    "subbasses/Studio Brootle Subs-07.wav",
+    "subbasses/Studio Brootle Subs-08.wav",
+    "subbasses/Studio Brootle Subs-09.wav",
+    "subbasses/Studio Brootle Subs-10.wav",
+    "subbasses/Studio Brootle Subs-11.wav",
+    "subbasses/Studio Brootle Subs-12.wav",
+    "subbasses/Studio Brootle Subs-13.wav",
+    "subbasses/Studio Brootle Subs-14.wav",
+    "subbasses/Studio Brootle Subs-15.wav",
+    "subbasses/Studio Brootle Subs-16.wav",
+    "subbasses/Studio Brootle Subs-17.wav",
+    "subbasses/Studio Brootle Subs-18.wav",
+    "subbasses/Studio Brootle Subs-19.wav",
+    "subbasses/Studio Brootle Subs-20.wav",
+    "subbasses/Studio Brootle Subs-21.wav",
+    "subbasses/Studio Brootle Subs-22.wav",
+    "subbasses/Studio Brootle Subs-23.wav",
+    "subbasses/Studio Brootle Subs-24.wav",
+    "subbasses/Studio Brootle Subs-25.wav",
+    "subbasses/Studio Brootle Subs-26.wav",
+    "subbasses/Studio Brootle Subs-27.wav",
+    "subbasses/Studio Brootle Subs-28.wav",
+    "subbasses/Studio Brootle Subs-29.wav",
+    "subbasses/Studio Brootle Subs-30.wav",
+    "subbasses/Studio Brootle Subs-31.wav",
+    "subbasses/Studio Brootle Subs-32.wav"
+  ],
+  "test": [
+    "test/Guus Meeuwis - Brabant - GuusmeeuwisVEVO.mp3"
+  ],
+  "track1": [
+    "track1/amazigh-loop.wav"
+  ],
+  "voices": [
+    "voices/bourdain_speech_1.mp3",
+    "voices/bourdain_speech_2.mp3"
+  ]
+}
