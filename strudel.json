@@ -157,6 +157,9 @@
   "test": [
     "test/Guus Meeuwis - Brabant - GuusmeeuwisVEVO.mp3"
   ],
+  "totovocal": [
+    "totovocal/Toto - Africa (Vocals Only) - Isolated Tracks.wav"
+  ],
   "track": [
     "loops/separated/htdemucs/track/bass.flac",
     "loops/separated/htdemucs/track/drums.flac",
