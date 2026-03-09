@@ -4,6 +4,9 @@
     "amazigh/amazigh_drums.mp3",
     "amazigh/amazigh_melody.mp3"
   ],
+  "amazigh-loop": [
+    "amazigh-loop.wav"
+  ],
   "ambience-sample": [
     "ambience-sample/ambient_club.mp3",
     "ambience-sample/beach-01-404139.mp3"
@@ -86,18 +89,26 @@
     "loops/track(1).wav",
     "loops/track.mp3"
   ],
-  "voice": [
-    "loops/voice/minder.wav"
-  ],
   "pre-loop": [
     "pre-loop/Nigham Layhdik _ Himi Midar (Official Audio)_vocals_[cut_19sec].mp3",
     "pre-loop/brabant.mp3",
     "pre-loop/gvb-ding.wav",
     "pre-loop/mainmelody-track1.wav",
+    "pre-loop/nigham.mp3",
     "pre-loop/rifi.wav"
   ],
   "sfx": [
     "sfx/ambient-door-closing_B_minor.wav"
+  ],
+  "soundsystem": [
+    "soundsystem/audio [bass].mp3",
+    "soundsystem/audio [drums].mp3",
+    "soundsystem/audio [music].mp3",
+    "soundsystem/audio [vocals].mp3"
+  ],
+  "soundsystemloop": [
+    "soundsystemloop/audio [drums].wav",
+    "soundsystemloop/audio [vocals].wav"
   ],
   "stems": [
     "stems/dr2drum.wav",
@@ -137,14 +148,79 @@
     "subbasses/Studio Brootle Subs-31.wav",
     "subbasses/Studio Brootle Subs-32.wav"
   ],
+  "tears": [
+    "tears/Tears For Fears - Everybody Wants To Rule The World_bass.mp3",
+    "tears/Tears For Fears - Everybody Wants To Rule The World_drums.mp3",
+    "tears/Tears For Fears - Everybody Wants To Rule The World_other.mp3",
+    "tears/Tears For Fears - Everybody Wants To Rule The World_vocals.mp3"
+  ],
   "test": [
     "test/Guus Meeuwis - Brabant - GuusmeeuwisVEVO.mp3"
+  ],
+  "track": [
+    "loops/separated/htdemucs/track/bass.flac",
+    "loops/separated/htdemucs/track/drums.flac",
+    "loops/separated/htdemucs/track/other.flac",
+    "loops/separated/htdemucs/track/vocals.flac"
   ],
   "track1": [
     "track1/amazigh-loop.wav"
   ],
+  "trym": [
+    "trym/Trym - Pandora [POSS002]_bass.mp3",
+    "trym/Trym - Pandora [POSS002]_drums.mp3",
+    "trym/Trym - Pandora [POSS002]_other.mp3",
+    "trym/Trym - Pandora [POSS002]_vocals.mp3"
+  ],
+  "voice": [
+    "loops/voice/minder.wav"
+  ],
   "voices": [
     "voices/bourdain_speech_1.mp3",
     "voices/bourdain_speech_2.mp3"
+  ],
+  "windowsxp": [
+    "windowsxp/Windows_XP_Startup.wav"
+  ],
+  "windowsxp-fx": [
+    "windowsxp-fx/Windows Feed Discovered.wav",
+    "windowsxp-fx/Windows Information Bar.wav",
+    "windowsxp-fx/Windows Navigation Start.wav",
+    "windowsxp-fx/Windows Pop-up Blocked.wav",
+    "windowsxp-fx/Windows XP Balloon.wav",
+    "windowsxp-fx/Windows XP Battery Critical.wav",
+    "windowsxp-fx/Windows XP Battery Low.wav",
+    "windowsxp-fx/Windows XP Critical Stop.wav",
+    "windowsxp-fx/Windows XP Default.wav",
+    "windowsxp-fx/Windows XP Ding.wav",
+    "windowsxp-fx/Windows XP Error.wav",
+    "windowsxp-fx/Windows XP Exclamation.wav",
+    "windowsxp-fx/Windows XP Hardware Fail.wav",
+    "windowsxp-fx/Windows XP Hardware Insert.wav",
+    "windowsxp-fx/Windows XP Hardware Remove.wav",
+    "windowsxp-fx/Windows XP Information Bar.wav",
+    "windowsxp-fx/Windows XP Logoff Sound.wav",
+    "windowsxp-fx/Windows XP Logon Sound.wav",
+    "windowsxp-fx/Windows XP Menu Command.wav",
+    "windowsxp-fx/Windows XP Minimize.wav",
+    "windowsxp-fx/Windows XP Notify.wav",
+    "windowsxp-fx/Windows XP Pop-up Blocked.wav",
+    "windowsxp-fx/Windows XP Print complete.wav",
+    "windowsxp-fx/Windows XP Recycle.wav",
+    "windowsxp-fx/Windows XP Restore.wav",
+    "windowsxp-fx/Windows XP Ringin.wav",
+    "windowsxp-fx/Windows XP Ringout.wav",
+    "windowsxp-fx/Windows XP Shutdown.wav",
+    "windowsxp-fx/Windows XP Start.wav",
+    "windowsxp-fx/Windows XP Startup.wav",
+    "windowsxp-fx/chimes.wav",
+    "windowsxp-fx/chord.wav",
+    "windowsxp-fx/ding.wav",
+    "windowsxp-fx/notify.wav",
+    "windowsxp-fx/recycle.wav",
+    "windowsxp-fx/ringin.wav",
+    "windowsxp-fx/ringout.wav",
+    "windowsxp-fx/start.wav",
+    "windowsxp-fx/tada.wav"
   ]
 }
